@@ -1,0 +1,22 @@
+{
+    "pages": [
+      "pages/demo/demo"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#59A5F0",
+        "navigationBarTitleText": "标题",
+        "navigationBarTextStyle": "white",
+        "backgroundColor": "#F0EFF5"
+    },
+    "tabBar": {
+        "selectedColor": "#59A5F0",
+        "backgroundColor": "#fff",
+        "borderStyle": "black",
+        "list": []
+    },
+
+    "networkTimeout": {
+        "request": 120000
+    }
+}
